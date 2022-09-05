@@ -18,4 +18,4 @@ Con de la crisis económica producto de la pandemia por Covid-19, la entidad de 
 
  ### ENTREGAS
 
-[Link entrega propuesta proyecto]( https://github.com/maortiz1/AprendizajeNOSuper_Proyecto/blob/main/Entregas/Proyecto%20-%20Entrega%201-%20Propuesta.pdf)
+- [Propuesta Proyecto]( https://github.com/maortiz1/AprendizajeNOSuper_Proyecto/blob/main/Entregas/Proyecto%20-%20Entrega%201-%20Propuesta.pdf)
