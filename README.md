@@ -1,4 +1,5 @@
 # Aprendizaje No Supervisado Proyecto Final
 
+
 link datos
-link entrega
+[link entrega propuesta proyecto]: https://github.com/maortiz1/AprendizajeNOSuper_Proyecto/blob/main/Entregas/Proyecto%20-%20Entrega%201-%20Propuesta.pdf
