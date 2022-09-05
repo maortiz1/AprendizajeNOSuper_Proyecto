@@ -1,9 +1,9 @@
 # Aprendizaje No Supervisado Proyecto Final
 ## Integrantes
 
-MARÍA ANA ORTIZ
-ALVARO PABÓN
-JORGE LÓPEZ
+- MARÍA ANA ORTIZ
+- ALVARO PABÓN
+- JORGE LÓPEZ
 
 ## Resumen. 
 
