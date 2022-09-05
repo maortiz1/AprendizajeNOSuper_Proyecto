@@ -1,6 +1,12 @@
 # Aprendizaje No Supervisado Proyecto Final
+## Integrantes
+
+MARÍA ANA ORTIZ
+ALVARO PABÓN
+JORGE LÓPEZ
 
 ## Resumen. 
+
 
 El objetivo de este caso de estudio es generar una segmentación de los clientes actuales de una compañía financiera que ofrece créditos de libranzas.  
 
