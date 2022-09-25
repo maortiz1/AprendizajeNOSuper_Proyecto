@@ -23,4 +23,4 @@ Con de la crisis económica producto de la pandemia por Covid-19, la entidad de 
 - [Semana 5](https://github.com/maortiz1/AprendizajeNOSuper_Proyecto/blob/main/Entregas/Semana_3.pdf)
 - [Semana 3](https://github.com/maortiz1/AprendizajeNOSuper_Proyecto/blob/main/Entregas/Semana_5.pdf)
 - [Video]( https://www.canva.com/design/DAFNJT9s4ys/-4-QanQ_GufXxIBuX8qiVA/watch?utm_content=DAFNJT9s4ys&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [Entrega Final]( )
+- [Entrega Final]( https://github.com/maortiz1/AprendizajeNOSuper_Proyecto/blob/main/Entregas/Entrega%20Final%20-%20Proyecto.pdf)
